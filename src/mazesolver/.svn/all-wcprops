@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/fa11-cs242/!svn/ver/3919/barril1/Assignment1.3/trunk/src/mazesolver
+END
+Maze.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/fa11-cs242/!svn/ver/3919/barril1/Assignment1.3/trunk/src/mazesolver/Maze.java
+END
+MazeRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/fa11-cs242/!svn/ver/3890/barril1/Assignment1.3/trunk/src/mazesolver/MazeRunner.java
+END
+ScalingFactors.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/fa11-cs242/!svn/ver/3570/barril1/Assignment1.3/trunk/src/mazesolver/ScalingFactors.java
+END
+Heuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/fa11-cs242/!svn/ver/3919/barril1/Assignment1.3/trunk/src/mazesolver/Heuristic.java
+END
+InvalidMazeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/fa11-cs242/!svn/ver/3571/barril1/Assignment1.3/trunk/src/mazesolver/InvalidMazeException.java
+END
+TotalCostComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fa11-cs242/!svn/ver/3570/barril1/Assignment1.3/trunk/src/mazesolver/TotalCostComparator.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/fa11-cs242/!svn/ver/3919/barril1/Assignment1.3/trunk/src/mazesolver/Location.java
+END
+NoSolutionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/fa11-cs242/!svn/ver/3571/barril1/Assignment1.3/trunk/src/mazesolver/NoSolutionException.java
+END
+Scheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/fa11-cs242/!svn/ver/3919/barril1/Assignment1.3/trunk/src/mazesolver/Scheme.java
+END
+Func.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/fa11-cs242/!svn/ver/3919/barril1/Assignment1.3/trunk/src/mazesolver/Func.java
+END
